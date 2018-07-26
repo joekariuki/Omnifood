@@ -334,7 +334,8 @@ header {
 .meals-showcase {
     list-style: none;
     width: 100%;
-    padding-bottom: 0px;
+    padding-left: 0px;
+    margin: 0px;
 }
 .meals-showcase li {
     display: block;

@@ -13,7 +13,7 @@ Omnifood is a responsive mock resturant website designed and developed in HTML, 
 ![screenshot_2019-01-04 omnifood 3](https://user-images.githubusercontent.com/19616063/50696718-379af700-100e-11e9-969d-d9ba079d682e.png)
 ![screenshot_2019-01-04 omnifood 4](https://user-images.githubusercontent.com/19616063/50696733-41bcf580-100e-11e9-8318-65bf847d746f.png)
 ![screenshot_2019-01-04 omnifood 5](https://user-images.githubusercontent.com/19616063/50696760-58634c80-100e-11e9-95ed-ef040b6fa3e3.png)
-![screenshot_2019-01-04 omnifood 6](https://user-images.githubusercontent.com/19616063/50696771-644f0e80-100e-11e9-87cf-a966d439acbd.png)
+![screenshot_2019-01-04 omnifood 1](https://user-images.githubusercontent.com/19616063/50696935-cc055980-100e-11e9-80cf-cb2a33ebc92f.png)
 ![screenshot_2019-01-04 omnifood 7](https://user-images.githubusercontent.com/19616063/50696791-716bfd80-100e-11e9-8706-bf88c1af8c46.png)
 ![screenshot_2019-01-04 omnifood 8](https://user-images.githubusercontent.com/19616063/50696808-7e88ec80-100e-11e9-9e70-15a40447dce5.png)
 

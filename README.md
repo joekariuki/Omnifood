@@ -1,4 +1,4 @@
-# Omnifood
+## Summary
 Omnifood is a responsive mock resturant website designed and developed in HTML, CSS, JavaScript and JQuery. The website was also  developed with external css frameworks, animations, APIs and JQuery libraries such as [Google Maps](https://cloud.google.com/maps-platform/), [Animate.css](https://daneden.github.io/animate.css/), [Normalize.css](https://necolas.github.io/normalize.css/) and [Waypoints](https://github.com/imakewebthings/waypoints) 
 
 
